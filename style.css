@@ -1,14 +1,14 @@
 :root{
     --primary:#5E3BEE;
-    
+    --secondary: black;
 }
 .btn-color{
     border: 1px solid var(--primary);
     color: var(--primary);
 }
-.color-home{
-    color: var(--primary);
+.home-link{
+    color: var(--primary) !important;
 }
-.text-css{
-    color: black;
+.black-color{
+    color: black !important;
 }
