@@ -12,3 +12,51 @@
 .black-color{
     color: black !important;
 }
+.btn-color{
+
+    color: var(--primary);
+}
+.btn-colorpurple{
+    background-color: var(--primary);
+    color: white;
+}
+span{
+    color: var(--primary);
+}
+.img-blocks{
+    height: 32vh;
+}
+.color{
+    background-color: #F5FCFF;
+}
+.flex{
+    display: flex;
+    gap: 90px;
+}
+.message{
+    height: 30vh;
+    border-color: 1px solid #5E3BEE;
+}
+.box{
+    border-color: #5E3BEE;
+}
+.check-box{
+    border-color: black;
+}
+.button{
+    background-color: #5E3BEE;
+    color: white;
+}
+.button-submit{
+display: flex;
+justify-content: center;
+}
+.hero {
+    background-color: #F5FCFF;
+}
+.feedback{
+  background-color: #F5FCFF;
+}
+.footer{
+    background-color: #F5FCFF;
+}
